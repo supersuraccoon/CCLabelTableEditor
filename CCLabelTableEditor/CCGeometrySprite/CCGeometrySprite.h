@@ -1,0 +1,5 @@
+#import "CCGSpritePoint.h"
+#import "CCGSpriteLine.h"
+#import "CCGSpriteCircle.h"
+#import "CCGSpriteRect.h"
+#import "CCGSpriteTriangle.h"
