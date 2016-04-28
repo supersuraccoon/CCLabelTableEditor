@@ -3,6 +3,26 @@ CCLabelTableEditor
 Intro:
 A label control in written in cocos2d with fully gesutre support.
 
+![1.png](http://www.supersuraccoon-cocos2d.com/wp-content/gallery/cclabeltableeditor/1.png)
+
+![2.png](http://www.supersuraccoon-cocos2d.com/wp-content/gallery/cclabeltableeditor/2.png)
+
+![3.png](http://www.supersuraccoon-cocos2d.com/wp-content/gallery/cclabeltableeditor/3.png)
+
+![4.png](http://www.supersuraccoon-cocos2d.com/wp-content/gallery/cclabeltableeditor/4.png)
+
+![5.png](http://www.supersuraccoon-cocos2d.com/wp-content/gallery/cclabeltableeditor/5.png)
+
+![6.png](http://www.supersuraccoon-cocos2d.com/wp-content/gallery/cclabeltableeditor/6.png)
+
+![7.png](http://www.supersuraccoon-cocos2d.com/wp-content/gallery/cclabeltableeditor/7.png)
+
+![8.png](http://www.supersuraccoon-cocos2d.com/wp-content/gallery/cclabeltableeditor/8.png)
+
+![9.png](http://www.supersuraccoon-cocos2d.com/wp-content/gallery/cclabeltableeditor/9.png)
+
+![10.png](http://www.supersuraccoon-cocos2d.com/wp-content/gallery/cclabeltableeditor/10.png)
+
 What's in CCLabeLTable:
 CCLabeLTable
 - CCLabelTable + CCLabelTableMacro
@@ -29,7 +49,17 @@ CCLabeLTable
    - CCElementSkin
    - CCSkinCenter
    
-What's (else) in CCLabeLTableEditor- ColorPicker- CCSlidingMenuLayer (origin)- CCGeometrySprite (origin)- NIDropDown (little modification)- YIPopupTextView (little modification)- UIAlertView-Blocks- CCMenu+Items (origin)- CCNode+AnchorLayout- CCNode+SFGestureRecognizers (little modification)- NSString+FontSize (origin)
+What's (else) in CCLabeLTableEditor
+- ColorPicker
+- CCSlidingMenuLayer (origin)
+- CCGeometrySprite (origin)
+- NIDropDown (little modification)
+- YIPopupTextView (little modification)
+- UIAlertView-Blocks
+- CCMenu+Items (origin)
+- CCNode+AnchorLayout
+- CCNode+SFGestureRecognizers (little modification)
+- NSString+FontSize (origin)
 
 Gesture support:
 - Swipe Left (one finger) - Next Page
