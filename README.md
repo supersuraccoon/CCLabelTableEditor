@@ -1,7 +1,7 @@
 CCLabelTableEditor
 ==================
 Intro:
-A label control in written in cocos2d with fully gesutre support.
+A visual table editor created with Cocos2d-iPhone.
 
 ![1.png](http://www.supersuraccoon-cocos2d.com/wp-content/gallery/cclabeltableeditor/1.png)
 
